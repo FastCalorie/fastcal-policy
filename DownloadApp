@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Download App - FastCalo AI</title>
+    <title>Privacy Policy - FastCalo AI</title>
     <style>
         body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; }
         h1 { color: #2c3e50; border-bottom: 2px solid #eee; padding-bottom: 10px; }
@@ -18,10 +18,73 @@
 </head>
 <body>
 
-    <h1>Download App</h1>
+    <h1>Privacy Policy</h1>
     <p class="date">Last updated: January 26, 2026</p>
 
-    <p>Android Play Store - <Link to be updated></p>
-    <p>App Store - <Link to be updated></p>
- 
+    <p>This Privacy Policy describes how <strong>FastCalo AI: Fasting & Calorie Tracker</strong> ("we", "us", or "our") collects, uses, and discloses your information when you use our mobile application (the "Service").</p>
+
+    <p>By using the Service, you agree to the collection and use of information in accordance with this policy.</p>
+
+    <h2>1. Information We Collect</h2>
+    
+    <h3>A. Personal Data</h3>
+    <p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you, and to perform the core calculations of the app. This includes:</p>
+    <ul>
+        <li><strong>Name:</strong> To personalize your profile.</li>
+        <li><strong>Age, Height, and Weight:</strong> These are strictly used to calculate your Basal Metabolic Rate (BMR) and recommended daily calorie intake.</li>
+        <li><strong>Country:</strong> Used for localization (units of measurement) and compliance with local laws.</li>
+        <li><strong>Email Address:</strong> Used for account creation, password recovery, and support communication.</li>
+    </ul>
+
+    <h3>B. Usage Data</h3>
+    <p>We collect data on how the Service is accessed and used, such as your fasting history, calorie logs, and feature usage. This helps us improve the app functionality.</p>
+
+    <h2>2. How We Use Your Information</h2>
+    <p>We use the collected data for various purposes:</p>
+    <ul>
+        <li>To provide and maintain the Service (tracking fasting and calories).</li>
+        <li>To calculate accurate health metrics (BMR, TDEE) based on your physical attributes.</li>
+        <li>To manage your account and subscription (Premium vs. Free).</li>
+        <li>To provide customer support.</li>
+        <li>To monitor the usage of the Service and detect technical issues.</li>
+    </ul>
+
+    <h2>3. Advertising (Free Users Only)</h2>
+    <p>For users on the <strong>Free Account</strong> plan, we may display third-party advertisements. These third-party ad networks (such as Google AdMob) may collect information about your device (including your Advertising ID) to serve relevant ads.</p>
+    <p>Users with a <strong>Premium Account</strong> do not see advertisements, and their data is not used for ad targeting.</p>
+
+    <h2>4. Third-Party Services & Health Data</h2>
+    <div class="highlight">
+        <p><strong>Apple Health & Google Health Connect:</strong><br>
+        Currently, FastCalo AI <strong>does not</strong> connect to, read from, or write to Apple Health (HealthKit) or Google Health Connect. All health data entered into FastCalo AI (weight, calories) remains isolated within the FastCalo AI app and our secure servers.</p>
+    </div>
+
+    <h2>5. Data Retention & Deletion</h2>
+    <p>We retain your personal data only for as long as is necessary for the purposes set out in this Privacy Policy. </p>
+    
+    <h3>How to Delete Your Data</h3>
+    <p>You have the right to delete your account and all associated data at any time directly within the app:</p>
+    <ol>
+        <li>Open FastCalo AI.</li>
+        <li>Go to <strong>Settings</strong> > <strong>Account Settings</strong>.</li>
+        <li>Tap <strong>Delete Account</strong> (in the "Danger Zone" section).</li>
+    </ol>
+    <p>Once confirmed, your account and all personal data (history, logs, profile) are permanently removed from our servers immediately.</p>
+
+    <h2>6. Security of Data</h2>
+    <p>The security of your data is important to us. We use industry-standard encryption to protect your personal information during transmission and storage. However, no method of transmission over the Internet is 100% secure.</p>
+
+    <h2>7. Children's Privacy</h2>
+    <p>Our Service is not intended for use by children under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you become aware that a child has provided us with Personal Data, please contact us.</p>
+
+    <h2>8. Changes to This Privacy Policy</h2>
+    <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.</p>
+
+    <h2>9. Contact Us</h2>
+    <p>If you have any questions about this Privacy Policy, please contact us:</p>
+    <ul>
+        <li>By email: <a href="mailto:hello.fastcaloai@gmail.com">hello.fastcaloai@gmail.com</a></li>
+    </ul>
+
+</body>
 </html>
